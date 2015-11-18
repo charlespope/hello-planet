@@ -1,2 +1,4 @@
 # hello-planet
-This is my first repository
+To the inhabitants of Planet Earth:
+
+Resistance is futile
